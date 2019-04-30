@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary2">#1f2212</color>
+    <color name="vert">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="noir">#D81B60</color>
+    <color name="jaunevert">#1f2212</color>
+    <color name="kaki">#94812b</color>
+    <color name="rose1">#ff00ff</color>
+    <color name="colorAccent">#ff008d</color>
+    <color name="bleuciel">#38e5fc</color>
+    <color name="bleu">#1818dc</color>
+    <color name="colorPrimary">#785e2f</color>
+    <color name="marron">#946800</color>
+    <color name="marronavant">#ededec</color>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">      Monde des animaux</string>
+    <string name="girafe">
+    "La girafe ou 'Ndiambala'au Senegal est un genre de mammifères africains d'ongulés à doigts égaux, les plus hauts animaux terrestres vivants et les plus grands ruminants. \n" +
+    "Afficher la description d'origine\n" +
+    "Nom scientifique : Giraffa\n" +
+    "Taille : Girafe: 4,6 m 6,1 m\n" +
+    "Période de gestation : Girafe: 15 mois \n" +
+    "Poids : Girafe: 800 kg \n" +
+    "Vitesse : 60 km/h \n" +
+    "Sommeil quotidien : 4,6 heures "
+    </string>
+</resources>
